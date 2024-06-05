@@ -48,4 +48,5 @@ public class StudentServlet extends HttpServlet {
         }
         response.sendRedirect("index.jsp");
     }
+    //B2
 }
